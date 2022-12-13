@@ -9,7 +9,6 @@ void main() {
   runApp(MyApp());
 }
 
-// 12.32   https://www.youtube.com/watch?v=9Mv1gSrXrlg&list=PL7jdfftn7HKsfTtv8FOaTbLIf7feiQTRu&index=36
 
 class MyApp extends StatelessWidget {
   final ThemeData theme = ThemeData();
